@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Argu 6.1.1
+nuget FSharp.Data 6.3.0
+nuget FSharp.Data.Adaptive 1.2.14
+nuget FSharpPlus 1.5.0
+nuget FSharpx.Collections 3.1.0

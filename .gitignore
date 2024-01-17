@@ -1,0 +1,18 @@
+# Editor configs
+.vscode
+.idea
+
+# Paket state
+.paket
+paket.lock
+paket-files
+
+# Packages
+packages
+
+# .Net artifacts
+bin
+obj
+
+# Testing
+test.txt
